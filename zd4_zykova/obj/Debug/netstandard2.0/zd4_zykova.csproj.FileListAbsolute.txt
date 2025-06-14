@@ -1,0 +1,17 @@
+C:\Users\305-10\source\repos\zd4_zykova\zd4_zykova\bin\Debug\netstandard2.0\zd4_zykova.deps.json
+C:\Users\305-10\source\repos\zd4_zykova\zd4_zykova\bin\Debug\netstandard2.0\zd4_zykova.dll
+C:\Users\305-10\source\repos\zd4_zykova\zd4_zykova\bin\Debug\netstandard2.0\ref\zd4_zykova.dll
+C:\Users\305-10\source\repos\zd4_zykova\zd4_zykova\bin\Debug\netstandard2.0\zd4_zykova.pdb
+C:\Users\305-10\source\repos\zd4_zykova\zd4_zykova\obj\Debug\netstandard2.0\zd4_zykova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\305-10\source\repos\zd4_zykova\zd4_zykova\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\305-10\source\repos\zd4_zykova\zd4_zykova\obj\Debug\netstandard2.0\CreditPage.xaml.g.cs
+C:\Users\305-10\source\repos\zd4_zykova\zd4_zykova\obj\Debug\netstandard2.0\CurrencyPage.xaml.g.cs
+C:\Users\305-10\source\repos\zd4_zykova\zd4_zykova\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\305-10\source\repos\zd4_zykova\zd4_zykova\obj\Debug\netstandard2.0\zd4_zykova.AssemblyInfoInputs.cache
+C:\Users\305-10\source\repos\zd4_zykova\zd4_zykova\obj\Debug\netstandard2.0\zd4_zykova.AssemblyInfo.cs
+C:\Users\305-10\source\repos\zd4_zykova\zd4_zykova\obj\Debug\netstandard2.0\zd4_zykova.csproj.CoreCompileInputs.cache
+C:\Users\305-10\source\repos\zd4_zykova\zd4_zykova\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\305-10\source\repos\zd4_zykova\zd4_zykova\obj\Debug\netstandard2.0\zd4_zykova.dll
+C:\Users\305-10\source\repos\zd4_zykova\zd4_zykova\obj\Debug\netstandard2.0\ref\zd4_zykova.dll
+C:\Users\305-10\source\repos\zd4_zykova\zd4_zykova\obj\Debug\netstandard2.0\zd4_zykova.pdb
+C:\Users\305-10\source\repos\zd4_zykova\zd4_zykova\obj\Debug\netstandard2.0\zd4_zykova.csproj.AssemblyReference.cache
